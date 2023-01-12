@@ -6,7 +6,7 @@
 
 <!-- Presentacion -->
  <h2 align="center">
-  <b>About me</b>
+  <b>📌About me</b>
 </h2>
 <div>
 #### Hello, hope you all have good day!
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
  <!-- Tecnologias -->
  <h2 align="center">
-  <b>Technologies</b>
+  <b>💻 Technologies</b>
 </h2>
 
 <p align="center">
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <!-- Analitycs -->
  <h2 align="center">
-  <b>Github Analytics</b>
+  <b>⚙ Github Analytics</b>
 </h2>
 
 <p align="center">
@@ -76,11 +76,10 @@ Here are some ideas to get you started:
 
 <!-- Contacto -->
  <h2 align="center">
-  <b>Contacto</b>
+  <b>📞 Contact</b>
 </h2>
 
 <div class="estilo" align="center" style="display:block;">
-        <a href="https://github.com/Jinder2050" target="_blank" style="padding: 0.2rem;"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
         <a href="https://www.facebook.com/JiNnDeRC" target="_blank" style="padding: 0.2rem;"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
         <a href="https://www.instagram.com/jinnder07/" target="_blank" style="padding: 0.2rem;"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
         <a href="https://www.linkedin.com/in/yiender-condori-galdos-6a536020b/" target="_blank" style="padding: 0.2rem;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
