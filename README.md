@@ -9,9 +9,9 @@
  <h2 align="center">
   <b>📌About me</b>
 </h2>
-
-<div>
 **Hello, hope you all have good day!**
+<div>
+
 
 ⊛ I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 
