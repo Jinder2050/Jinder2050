@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
  
  <!-- Tecnologias -->
- <p align="center">
+ <h1 align="center">
   <b>🛠 Tecnologías</b>
-</p>
+</h1>
 
 ### 🛠 &nbsp;Tecnologías
 
