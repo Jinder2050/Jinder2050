@@ -4,12 +4,13 @@
 </p>
 
 
+
 <!-- Presentacion -->
  <h2 align="center">
   <b>📌About me</b>
 </h2>
 <div>
-#### Hello, hope you all have good day!
+Hello, hope you all have good day!
 
 ⊛ I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 
@@ -18,7 +19,7 @@
 ⊛ I ❤️ to connect with more people.
 
 </div>
-
+<br>
 <!--
 **Jinder2050/Jinder2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,6 +51,8 @@ Here are some ideas to get you started:
     <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator"></a>
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop"></a>
 </p>
+<br>
+
 
 
 <!-- Analitycs -->
@@ -67,11 +70,12 @@ Here are some ideas to get you started:
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=en&date_format=j%20M%5B%20Y%5D&line_height=0" />
 </p> 
 
-
 <!-- Mostrar profile update -->
 <p align="center">
     <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/Jinder2050/Jinder2050?label=profile%20updated&style=flat-square"></a>
 </p>
+<br>
+
 
 
 <!-- Contacto -->
