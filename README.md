@@ -6,16 +6,17 @@
 
 
 <!-- Presentacion -->
- <h2 align="center">
+<h2 align="center">
   <b>📌About me</b>
 </h2>
 
 <div>
+
 #### Hello, hope you all have good day!
 
 ⊛ I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 
-⊛ I ❤️ to watch movies, read, play videogames, and see nature.
+⊛ I ❤️ to watch movies, read, play videogames and see nature.
 
 ⊛ I ❤️ to connect with more people.
 
