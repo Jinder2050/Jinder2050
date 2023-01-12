@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![Banner](header.png)](https://github.com/Jinder2050)
+[![Banner](assets/github-header-image.png)](https://github.com/Jinder2050)
 
 <!--
 **Jinder2050/Jinder2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
  <!-- Tecnologias -->
  <h2 align="center">
-  <b>🛠 Tecnologías</b>
+  <b>🛠 Technologies</b>
 </h2>
 
 <p align="center">
@@ -33,16 +33,18 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Analitycs -->
-### ⚙️ &nbsp;GitHub Analytics
+ <h2 align="center">
+  <b>⚙️ Github Analytics</b>
+</h2>
 
 <p align="center">
 <a href="https://github.com/Jinder2050">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jinder2050&show_icons=true&theme=radical&locale=es&include_all_commits=true&count_private=true&"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jinder2050&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jinder2050&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=en&date_format=j%20M%5B%20Y%5D&line_height=0" />
 </p> 
 
 <!-- Mostrar profile update -->
