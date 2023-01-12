@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Jinder2050">
-  <img height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jinder2050&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jinder2050&layout=compact&langs_count=8&theme=algolia"/>
+  <img style="display:block; margin:auto; width:200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jinder2050&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img style="display:block; margin:auto; width:200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jinder2050&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
