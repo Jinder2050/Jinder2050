@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 
+ <!-- Tecnologias -->
 ### 🛠 &nbsp;Tecnologías
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -36,6 +37,8 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jinder2050&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jinder2050)](https://git.io/streak-stats)
 
 <!-- Mostrar profile update -->
 <p align="center">
