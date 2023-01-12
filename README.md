@@ -49,3 +49,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/Jinder2050/Jinder2050?label=profile%20updated&style=flat-square"></a>
 </p>
+
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
+</p>
