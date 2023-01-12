@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <!-- Contacto -->
  <h2 align="center">
-  <b>Github Analytics</b>
+  <b>Contacto</b>
 </h2>
 
 <div class="estilo" align="center" style="display:block;">
