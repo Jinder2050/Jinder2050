@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 <!-- Mostrar profile update -->
 <p align="center">
-    <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/Jinder2050/Jinder2050?label=profile%20updated&style=flat-square"></a>
 </p>
