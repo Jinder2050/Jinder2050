@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 -->
  
  <!-- Tecnologias -->
+ <p align="center">
+  <b>🛠 Tecnologías</b>
+</p>
+
 ### 🛠 &nbsp;Tecnologías
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -37,9 +41,6 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jinder2050&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D&line_height=0" />
 </p> 
