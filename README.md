@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jinder2050&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
