@@ -1,5 +1,7 @@
 <!-- Banner -->
-[![Banner](assets/github-header-image.png)](https://github.com/Jinder2050)
+<p align="center">
+    <img alt="Baner" src="assets/github-header-image.png"></a>
+</p>
 
 <!--
 **Jinder2050/Jinder2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
