@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img alt="CSS" src=" https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></a>
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github "></a>
     <img alt="Visual studio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC "></a>
-    <img alt="Illustrator" src=" https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator"></a>
+    <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator"></a>
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop"></a>
 </p>
 
