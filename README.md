@@ -10,6 +10,11 @@
   <b>📌About me</b>
 </h2>
 
+<!-- Mostrar profile update -->
+<p align="center">
+   <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/Jinder2050/Jinder2050?label=profile%20updated&style=flat-square"></a>
+</p>
+
 <div>
 
 #### Hello, hope you all have good day!
@@ -72,16 +77,13 @@ Here are some ideas to get you started:
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=en&date_format=j%20M%5B%20Y%5D&line_height=0" />
 </p> 
 
-<!-- Mostrar profile update -->
-<p align="center">
-    <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/Jinder2050/Jinder2050?label=profile%20updated&style=flat-square"></a>
-</p>
-<br>
+<a href="https://github.com/Jinder2050"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Jinder2050&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
 <!-- Contacto -->
- <h2 align="center">
+<br>
+<h2 align="center">
   <b>📞 Contact</b>
 </h2>
 
