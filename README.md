@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&  logo=javascript"></a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"></a>
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></a>
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github "></a>
-    <img alt="Visual studio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC "></a>
+    <img alt="Postgress" src="https://img.shields.io/badge/-Postgres-05122A?style=flat-square&logo=postgresql&logoColor=4169E1"></a>
     <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator"></a>
     <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop"></a>
 </p>
