@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jinder2050&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
+
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=en&date_format=j%20M%5B%20Y%5D&line_height=0" />
 </p> 
