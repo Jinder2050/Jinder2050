@@ -19,11 +19,11 @@
 
 #### Hello, hope you all have good day!!
 
-⊛ I ❤️ to learn, develop and experiment with programs and awesome things on internet.
+- I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 
-⊛ I ❤️ to watch movies, read, play videogames and see nature.
+- I ❤️ to watch movies, read, play videogames and see nature.
 
-⊛ I ❤️ to connect with more people.
+- I ❤️ connecting with new people and sharing ideas, so feel free to reach out to me.
 
 </div>
 <br>
