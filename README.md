@@ -81,9 +81,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jinder2050"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Jinder2050&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
+
 <!-- snake -->
 <br>
-<img src="https://raw.githubusercontent.com/undefined/undefined/blob/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Jinder2050/Jinder2050/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 <!-- Contacto -->
