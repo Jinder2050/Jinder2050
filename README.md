@@ -10,10 +10,14 @@
   <b>📌About me</b>
 </h2>
 
+
 <!-- Mostrar profile update -->
 <p align="center">
-   <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/Jinder2050/Jinder2050?label=profile%20updated&style=flat-square"></a>
+   <a href="https://github.com/Jinder2050/Jinder2050" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/last-commit/Jinder2050/Jinder2050?label=profile%20updated&style=flat"></a>
+    <a href="https://github.com/Jinder2050/Jinder2050.git">
+    <img src="https://komarev.com/ghpvc/?username=Jinder2050&label=Profile%20views&color=4ac41c&label=Profile+Views&style=flat"></a>
 </p>
+
 
 <div>
 
