@@ -82,16 +82,6 @@ Here are some ideas to get you started:
 
 
 
-<!-- snake -->
-<br>
-<br clear="both">
-
-<p align="center">
-<img src="https://github.com/Jinder2050/Jinder2050/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
-
 <!-- Contacto -->
 <br>
 <h2 align="center">
@@ -104,3 +94,12 @@ Here are some ideas to get you started:
         <a href="https://www.linkedin.com/in/yiender-condori-galdos-6a536020b/" target="_blank" style="padding: 0.2rem;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 <br>
+
+
+<!-- snake -->
+<br>
+<br clear="both">
+
+<p align="center">
+<img src="https://github.com/Jinder2050/Jinder2050/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
