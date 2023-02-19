@@ -86,9 +86,9 @@ Here are some ideas to get you started:
 <br>
 <br clear="both">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Jinder2050/Jinder2050/blob/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+<img src="https://github.com/Jinder2050/Jinder2050/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
 
