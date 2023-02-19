@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jinder2050/Jinder2050/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jinder2050/Jinder2050/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 
