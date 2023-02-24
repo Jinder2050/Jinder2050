@@ -1,3 +1,8 @@
+<!-- Gif -->
+<p align="center">
+    <img alt="Baner" src="assets/line-neon.gif" width="100%"></a>
+</p>
+
 <!-- Banner -->
 <p align="center">
     <img alt="Baner" src="assets/github-header-image.png" width="100%"></a>
