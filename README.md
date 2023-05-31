@@ -88,7 +88,7 @@ Here are some ideas to get you started:
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Jinder2050&theme=radical&locale=en&date_format=j%20M%5B%20Y%5D&line_height=0" />
 </p> 
 
-<a href="https://github.com/Jinder2050"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Jinder2050&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Jinder2050"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Jinder2050&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
